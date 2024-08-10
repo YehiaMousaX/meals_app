@@ -20,7 +20,7 @@ class MealDetailsScreen extends StatelessWidget {
               onPressed: () {
                 onToggleFavorite(meal);
               },
-              icon: Icon(Icons.star_outlined)),
+              icon: const Icon(Icons.star_outlined)),
         ],
       ),
       body: SingleChildScrollView(
