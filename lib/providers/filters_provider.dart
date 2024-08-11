@@ -8,7 +8,7 @@ enum Filters {
   vegan,
 }
 
-const KInitialFilters = {
+const kInitialFilters = {
   Filters.glutenFree: false,
   Filters.lactoseFree: false,
   Filters.vegeterian: false,
@@ -16,7 +16,7 @@ const KInitialFilters = {
 };
 
 class FilltersNotifier extends StateNotifier<Map<Filters, bool>> {
-  FilltersNotifier() : super(KInitialFilters);
+  FilltersNotifier() : super(kInitialFilters);
   void setFilter(Filters filter, bool isActive) {
     state = {
       ...state,
@@ -52,5 +52,5 @@ final filterdMealsProvider = Provider((ref) {
     }
     return true;
   }).toList();
-  ;
+  
 });
