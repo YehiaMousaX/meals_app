@@ -63,23 +63,28 @@ To get started with this project, follow these steps:
 Here are some screenshots of the app:
 
 ### Home Screen
-![Home Screen](screenShots/categories.png)
+<img src="screenShots/categories.png" alt="Home Screen" width="300"/>
+
 *The home screen displays a list of meal categories that users can browse.*
 
 ### Meal Categories
-![Meal Categories](screenShots/quickAndEasyCategory.png)
+<img src="screenShots/quickAndEasyCategory.png" alt="Meal Categories" width="300"/>
+
 *This screen shows meals under the "Quick & Easy" category, allowing users to select a meal for more details.*
 
 ### Meal Details
-![Meal Details](screenShots/spaghettiIngredients.png)
+<img src="screenShots/spaghettiIngredients.png" alt="Meal Details" width="300"/>
+
 *The meal details screen provides a detailed recipe, including ingredients and steps to prepare the meal.*
 
 ### Filters
-![Filters](screenShots/filters.png)
+<img src="screenShots/filters.png" alt="Filters" width="300"/>
+
 *The filters screen allows users to filter meals based on dietary preferences such as gluten-free, vegan, etc.*
 
 ### Favourites
-![Favourites](screenShots/favourtiesPage.png)
+<img src="screenShots/favourtiesPage.png" alt="Favourites" width="300"/>
+
 *The favourites screen displays meals that the user has marked as favourites for quick access.*
 
 ## Contributing
